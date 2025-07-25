@@ -1,5 +1,6 @@
-### Hi there 👋
+### ¡Hey👋! Soy Jostin.
 
+I'm a <strong>Computer Systems Engineering student</strong> & Laravel developer 🚀
 <!--
 **jostinaguilar/jostinaguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
